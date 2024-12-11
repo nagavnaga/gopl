@@ -1,2 +1,3 @@
 # gopl
-All  the channel in the go programming channel
+All  the chapter in the go programming Language book by ALAN
+
